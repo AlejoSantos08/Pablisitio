@@ -121,7 +121,7 @@
    }  
    .loader {
     position: absolute;
-    margin-left: 5%;
+    margin-left: 55%;
     margin-top: -40%;
     width: 96px;
     height: 96px;
@@ -129,7 +129,7 @@
    }
    .loader-square {
     position: absolute;
-    top: 0;
+    top: 100px;
     left: 28px;
     width: 100px;
     height: 100px;
