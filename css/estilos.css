@@ -129,7 +129,7 @@
    }
    .loader-square {
     position: absolute;
-    top: 100px;
+    top: 0;
     left: 28px;
     width: 100px;
     height: 100px;
